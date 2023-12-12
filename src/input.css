@@ -10,3 +10,10 @@
     @apply font-fontNav text-navColor md:text-navSize text-base font-semibold hover:text-blue-950;
 
 }
+
+
+
+.navText2{
+    @apply font-fontNav  md:text-navSize text-base font-semibold;
+
+}

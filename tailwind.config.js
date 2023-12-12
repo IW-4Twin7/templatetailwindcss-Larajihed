@@ -10,13 +10,17 @@ module.exports = {
 
         navColor:"#314584",
         btnColor:"#ff3946",
-        pColor:"#6e757a"
+        pColor:"#6e757a",
+        cardColor: "#ff3946",
+
       },
       fontSize:{
 
         navSize:"24px",
         titleSize:"74px",
-        pSize:"18px"
+        pSize:"18px",
+        subTitleSize:"45px"
+
       },
 
       fontFamily:{
